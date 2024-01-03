@@ -56,4 +56,4 @@ if __name__ == "__main__":
             if selected_command:
                 selected_command()
             else:
-                print("[*] Invalid command. Try using --help")
+                print("[**] Invalid command. Try using --help")
